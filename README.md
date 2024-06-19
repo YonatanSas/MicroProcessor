@@ -1,4 +1,4 @@
-## MicroProcessor - PIC16F877 - Project
+# MicroProcessor - PIC16F877 - Project
 
 This repository contains the code for a 4-bit ALU (Arithmetic Logic Unit) simulator, developed as a project in a course in embedded systems. The project demonstrates the use of a microprocessor with attached peripherals, including a button matrix, LEDs and an LCD screen.
 
