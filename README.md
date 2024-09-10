@@ -47,6 +47,3 @@ The code is written in assembly language and compiled using MPLAB. The program i
 2. **Input `B`**: 2 (binary: 010)
 3. **Input `C`**: 010 (Multiply)
 4. **Result**: Displayed on LCD as 6 (binary: 0110)
-
-## Author
-Yonatan Sasson 
